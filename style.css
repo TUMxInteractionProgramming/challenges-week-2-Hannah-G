@@ -40,6 +40,7 @@ h1 {
 }
 
 
+
 /***** CHANNELS LIST *****/
 
 li {
@@ -103,8 +104,7 @@ li img {
     width: 80%;
     margin-left: 2.5%;
     margin-bottom: 8px;
-    padding: 16 0 16 0;
-
+    padding: 16px 0px 16px 0;
 }
 
 h3 * {
@@ -148,6 +148,5 @@ strong {
 ul {
     background-color: white;
     list-style-type: none;
-    padding: 0 16 0 16;
 }
 
