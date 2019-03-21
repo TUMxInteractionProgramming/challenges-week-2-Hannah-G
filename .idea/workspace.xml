@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="731f1304-2fe0-4fa7-8896-34d9c33c3008" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,7 +47,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>http</find>
       <find>li {</find>
       <find>font-we</find>
       <find>button</find>
@@ -77,6 +75,7 @@
       <find>tab</find>
       <find>https://map.what3words.com/cheeses.yard.applies</find>
       <find>strong</find>
+      <find>w</find>
       <find>h3</find>
     </findStrings>
   </component>
@@ -154,12 +153,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552918318215</updated>
       <workItem from="1552918326458" duration="201000" />
-      <workItem from="1552918971228" duration="15398000" />
+      <workItem from="1552918971228" duration="15454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15599000" />
+    <option name="totallyTimeSpent" value="15655000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
